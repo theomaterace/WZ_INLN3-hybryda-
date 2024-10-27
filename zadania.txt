@@ -1,1 +1,12 @@
-zadania.txt
+1. Zrobić nowy branch pod dowlona nazwa
+2. na nowym branchu wprowadzic proste zmiany w pliku html
+
+<footer>
+    <p>Projekt WSB Merito 2024 </p>
+</footer>
+
+3. zrobic commit (lokalnie)
+4. wyslac nowy branch dom githuba (ustawic upstream)
+---
+5. pull request & merge
+6. synchronizacja repozytoriow lokalnie
